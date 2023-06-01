@@ -8,7 +8,7 @@
 ------------
 
 ### 一般学生 / 个人开发者 / 福瑞控
-###### Common students / Individual developer / Furry
+###### Common student / Individual developer / Furry
 
 ------------
 
