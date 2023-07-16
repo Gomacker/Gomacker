@@ -31,9 +31,3 @@
 
 ------------
 
-### 学习中（代码向）
-###### On learning (for coding)
-![](https://img.shields.io/badge/-Rust-000000?logo=rust&style=flat-square&logoColor=fff) ![](https://img.shields.io/badge/-Haxe-EA8220?logo=haxe&style=flat-square&logoColor=fff) ![](https://img.shields.io/badge/-Kotlin-239120?logo=kotlin&style=flat-square&logoColor=fff)
-
-------------
-
