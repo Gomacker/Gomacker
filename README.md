@@ -2,18 +2,22 @@
 
 # 👋 哈噜哈噜~
 ### Kranca / Gomacker
-##### 流星屋图书馆 http://meteorhouse.wiki/
-##### 　<del>没有经常提交的习惯啊呜</del>
+
+
+流星屋图书馆 http://meteorhouse.wiki/
+
+
+<del>没有经常提交的习惯啊呜</del>
 
 ------------
 
 ### 一般学生 / 个人开发者 / 福瑞控
-###### Common student / Individual developer / Furry
+Common student / Individual developer / Furry
 
 ------------
 
 ### 正在开发
-###### On developing (and try)
+On developing (and try)
 - AniseBot 面向Worldflipper的工具Bot
 - Meteorhouse 深度攻略 / 低代码攻略页生成器
 - Skys Diviner
